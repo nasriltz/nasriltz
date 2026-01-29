@@ -1,7 +1,5 @@
 🕵️ I'm learning Ethical Hacking & Penetration Testing using Kali Linux
-
 🎯 I’m interested in Network Security & Web Exploitation. 
-
 📚 Currently exploring Python for Security, Bash Scripting, and CTF Challenges.
 
 # Hi, I'm Nasril 👋
