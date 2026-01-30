@@ -2,7 +2,7 @@
 
 🎯 I’m interested in Network Security & Web Exploitation.
 
-📚 Currently exploring Python for Security, Bash Scripting, and CTF Challenges.
+📚 Currently exploring Python for Security, Bash Scripting.
 
 # Hi, I'm Nasril 👋
 
