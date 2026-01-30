@@ -13,7 +13,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-### 🕵️ Cyber Security Tools:
+### Cyber Security Tools:
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nmap](https://img.shields.io/badge/Nmap-blue?style=for-the-badge&logo=nmap&logoColor=white)
